@@ -1,3 +1,20 @@
+Linux_STA_V2.5.0.3-32
+====================================
+
+修改os/linux/config.mk打开两个支持
+
+代码:
+
+# Support Wpa_Supplicant
+
+HAS_WPA_SUPPLICANT=y
+
+# Support Native Wpa_Supplicant for Network Maganger
+
+HAS_NATIVE_WPA_SUPPLICANT_SUPPORT=y
+
+#开始编译安装
+
 1.打开终端一次输入以下代码
 
 2.sudo su   注释：首次会让你输入密码
