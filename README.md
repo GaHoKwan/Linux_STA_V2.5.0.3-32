@@ -5,11 +5,11 @@ Linux_STA_V2.5.0.3-32
 
 代码:
 
-# Support Wpa_Supplicant
+# 打开Wpa_Supplicant
 
 HAS_WPA_SUPPLICANT=y
 
-# Support Native Wpa_Supplicant for Network Maganger
+# 打开网络管理器Native Wpa_Supplicant支持
 
 HAS_NATIVE_WPA_SUPPLICANT_SUPPORT=y
 
